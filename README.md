@@ -1,0 +1,2 @@
+# Example Cassandra metrics setup
+
